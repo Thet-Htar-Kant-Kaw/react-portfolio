@@ -6,20 +6,20 @@ const projectsData = [
     {
       id: 1,
       title: "React Portfolio Website",
-      description: "Project 1 description",
+      description: "Responsive portfolio website using React.js and Tailwind CSS",
       image: "images/portfolio.jpg",
       tag: ["All", "Web"],
-      gitUrl: "/",
+      gitUrl: "https://github.com/Thet-Htar-Kant-Kaw/react-portfolio.git",
       previewUrl: "/",
     },
     {
       id: 2,
       title: "Book Library Website",
-      description: "Project 2 description",
+      description: "React book library website using the data obtained by webscraping from pdfdrive.com",
       image: "images/book-library.jpg",
       tag: ["All", "Web"],
-      gitUrl: "/",
-      previewUrl: "/",
+      gitUrl: "https://gorgeous-palmier-b3ddc7.netlify.app/",
+      previewUrl: "https://gorgeous-palmier-b3ddc7.netlify.app/",
     },
     {
       id: 3,
@@ -27,8 +27,8 @@ const projectsData = [
       description: "Project 3 description",
       image: "images/book-library.jpg",
       tag: ["All", "Web"],
-      gitUrl: "/",
-      previewUrl: "/",
+      gitUrl: "https://graceful-lebkuchen-374c97.netlify.app/",
+      previewUrl: "https://graceful-lebkuchen-374c97.netlify.app/",
     },
   ];
 
