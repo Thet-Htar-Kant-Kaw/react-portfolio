@@ -24,7 +24,7 @@ const projectsData = [
     {
       id: 3,
       title: "Redux Shop Website",
-      description: "Project 3 description",
+      description: "Shop website using Redux and API",
       image: "images/book-library.jpg",
       tag: ["All", "Web"],
       gitUrl: "https://graceful-lebkuchen-374c97.netlify.app/",
